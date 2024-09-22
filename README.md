@@ -16,7 +16,7 @@
 
 <p align="left">
 
-- 👨‍💻 My[ Portfolio](https://github.com/dineshverma-dev)
+- 👨‍💻 My[ Portfolio](https://dineshverma.vercel.app)
 - 🌱 I’m currently learning MERN Stack Development
 - 👯 I’m looking to collaborate with fellow developers on exciting projects!
 - 🎯 Goals: Give best contribution to tech
