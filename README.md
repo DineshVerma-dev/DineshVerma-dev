@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">A Passionate Programmer & Problem Solver</h4>
+<h3 align="center">A Passionate Programmer & Problem Solver</h3>
 
 ###
 
