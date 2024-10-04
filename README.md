@@ -91,9 +91,6 @@
 </div>
 <br>
 
-### 🔝 Top Contributed Repo
-
-- ![](https://github-contributor-stats.vercel.app/api?username=DineshVerma-dev&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 
 
