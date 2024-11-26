@@ -12,7 +12,7 @@
 
 ###
 
-![](https://github-profile-trophy.vercel.app/?username=DineshVerma-dev&theme=algolia)
+
 
 <p align="left">
 
