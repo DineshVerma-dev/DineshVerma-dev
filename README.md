@@ -20,6 +20,7 @@
 - 🌱 I’m currently learning advance stuff in MERN Stack Development
 - 👯 I’m looking to collaborate with fellow developers on exciting projects!
 - 🎯 Goals: Give best contribution to tech
+- Debugging is like being an investigator—tracing clues in the code to uncover the hidden truth behind every issue
 
 </p>
 
