@@ -60,19 +60,7 @@
 
 ###
 
-<h2 align="center"> GitHub Stats: </h2>
 
-<div align="center">
-  
-  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshVerma-dev&theme=blue_navy&hide_border=false" />
-
-  <br/>
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DineshVerma-dev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" style="display: inline-block; margin-right: 40px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshVerma-dev&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="display: inline-block;" />
-</div>
 
 
 </div>
