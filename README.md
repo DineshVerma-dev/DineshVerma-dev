@@ -1,69 +1,50 @@
-<h1 align="center">Hi 👋, I'm Dinesh Verma</h1>
+# Hey, This is Dinesh Verma  
+**Full Stack AI Engineer** focused on building scalable, intelligent products with strong foundations in **System Design** and **DevOps**.
 
-###
+I design production-grade AI systems end-to-end — from LLM pipelines and backend architecture to resilient infrastructure, observability, and deployment automation.
 
-<h4 align="center">A Passionate Programmer & Problem Solver</h4>
+---
 
-###
+## Focus Areas
+- LLM application architecture (RAG, agents, tool orchestration)
+- Distributed system design for AI workloads (queues, caching, async workers)
+- Full-stack product engineering (API layer → frontend experience → infra)
+- Reliability engineering (monitoring, fault tolerance, incident readiness)
+- Security, performance optimization, and deployment at scale
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DineshVerma-dev.DineshVerma-dev&left_color=darkslategray&right_color=black&left_text=Profile%20%20views"  />
-</div>
+---
 
-###
+## Technical Skills
 
-<p align="left">
+### AI / LLM
+OpenAI API · LangChain · LlamaIndex · RAG · Vector DBs · Prompt Engineering · Evaluation Pipelines
 
-- 👨‍💻 My [Portfolio](https://github.com/DineshVerma-dev)
-- 🌱 I’m currently learning advance stuff in MERN Stack Development
-- 👯 I’m looking to collaborate with fellow developers on exciting projects!
-- 🎯 Goals: Give best contribution to tech
-- Debugging is like being an investigator—tracing clues in the code to uncover the hidden truth behind every issue
+### Backend & System Design
+Node.js · Python · FastAPI · Express · PostgreSQL · Redis · Message Queues · WebSockets · REST APIs · Microservices
 
-</p>
+### Frontend
+Next.js · React · TypeScript · Tailwind CSS · Shadcn/UI
 
-###
+### DevOps & Infrastructure
+Docker · GitHub Actions · CI/CD · Nginx · Vercel · Cloudflare · AWS (EC2, S3 basics) · IaC basics · Observability (Logs/Metrics/Tracing)
 
-###
+### Reliability & Performance
+Caching Strategies · Rate Limiting · Idempotency · Retry Policies · Load Handling · Cost/Latency Optimization
 
-<h3 align="left">Programming Languages and Tools : </h3>
+---
 
-###
+## Current Work
+Researching and building:
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-</div>
+- Scalable AI architecture patterns for multi-user applications  
+- Event-driven and queue-first backend systems  
+- Secure deployment workflows, monitoring stacks, and production hardening  
+- Efficient LLM serving strategies (latency, throughput, and cost control)
 
-###
+---
 
-
-
-
-</div>
-<br>
+## Links
+- **Portfolio:** https://your-portfolio-link.com  
+- **LinkedIn:** https://www.linkedin.com/in/your-link  
+- **Twitter/X:** https://x.com/your-handle  
+- **Email:** your-email@gmail.com
