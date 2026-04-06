@@ -45,6 +45,6 @@ Researching and building:
 
 ## Links
 - **Portfolio:** https://your-portfolio-link.com  
-- **LinkedIn:** https://www.linkedin.com/in/your-link  
-- **Twitter/X:** https://x.com/your-handle  
-- **Email:** your-email@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/dineshkumar-verma/)  
+- **Twitter/X:** [https://x.com/your-handle](https://x.com/DINESHVERM578)  
+- **Email:** dineshkumarverma.dev@gmail.com
